@@ -1,4 +1,4 @@
 all:
-	./classification
+	./classification.sh
 clean:
 	rm -f *.data
